@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Piepier/static/css/main.7adaacda.chunk.css",
+    "main.js": "/Piepier/static/js/main.3f1e8812.chunk.js",
+    "main.js.map": "/Piepier/static/js/main.3f1e8812.chunk.js.map",
+    "runtime-main.js": "/Piepier/static/js/runtime-main.edfac72b.js",
+    "runtime-main.js.map": "/Piepier/static/js/runtime-main.edfac72b.js.map",
+    "static/js/2.621f108b.chunk.js": "/Piepier/static/js/2.621f108b.chunk.js",
+    "static/js/2.621f108b.chunk.js.map": "/Piepier/static/js/2.621f108b.chunk.js.map",
+    "static/js/3.b685fccd.chunk.js": "/Piepier/static/js/3.b685fccd.chunk.js",
+    "static/js/3.b685fccd.chunk.js.map": "/Piepier/static/js/3.b685fccd.chunk.js.map",
+    "index.html": "/Piepier/index.html",
+    "static/css/main.7adaacda.chunk.css.map": "/Piepier/static/css/main.7adaacda.chunk.css.map",
+    "static/js/2.621f108b.chunk.js.LICENSE.txt": "/Piepier/static/js/2.621f108b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edfac72b.js",
+    "static/js/2.621f108b.chunk.js",
+    "static/css/main.7adaacda.chunk.css",
+    "static/js/main.3f1e8812.chunk.js"
+  ]
+}
