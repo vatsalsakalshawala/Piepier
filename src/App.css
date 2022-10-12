@@ -1,0 +1,108 @@
+body{
+  /* background-color: #1b2034; */
+  color: #1bb506;
+  margin: 0px;
+}
+
+#dark body{
+  background-color: #1b2034;
+  
+}
+
+#dark .full{
+background-color:#1b2034;
+
+}
+
+
+#dark .container{
+  background-color: #1b2034;
+  margin-block:auto;
+  
+}
+
+.form-control{
+  border:2px solid rgb(27, 181, 6) ;
+}
+
+a{
+color: #1bb506;
+text-decoration: none;
+}
+a:hover {
+  color: #3aed22;
+  background-color: transparent;
+  text-decoration: none;
+}
+.list-group-item{
+    width: 33%;
+    border: 1px solid rgb(31, 213, 31);
+}
+h6{
+text-align: center;
+margin: 3%;
+}
+
+#light{
+  background-color: white;
+}
+
+#dark{
+  background-color: #1b2034;
+  color: #3aed22;
+}
+
+#light .count{
+  background-color: white;
+}
+
+.reactswitch{
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  font-stretch: expanded;
+  padding-left: 1%;
+}
+
+a .logo{
+  /* font-family: Comic Sans MS; */
+  font-family:Gabriola;
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 200%;
+}
+.qrcode button.generate{
+  color: white;
+  margin-left: 12px;
+}
+
+input.urlbox{
+  width: 20%;
+  border-radius: 2%;
+  border: 2px solid  #1bb506;
+}
+
+.qrcode a {
+  margin-left: 12px;
+}
+
+@media all and (max-width: 400px){
+  input.urlbox{
+    width: 65%;
+    border-radius: 2%;
+    border: 2px solid  #1bb506;
+  }
+  .textform button{
+    margin: 2%;
+  }
+
+  .list-group-item{
+    width: 60%;
+    border: 1px solid rgb(31, 213, 31);
+}
+h6{
+  text-align: center;
+  margin-top: 5%;  
+}
+}
+
